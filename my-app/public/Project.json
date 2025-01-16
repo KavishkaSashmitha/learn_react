@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Travel Blog",
+      "link": "https://project1.com",
+      "index": "01"
+    },
+    {
+      "id": 2,
+      "title": "Adventure Maps",
+      "link": "https://project2.com",
+      "index": "02"
+    },
+    {
+      "id": 3,
+      "title": "Photo Gallery",
+      "link": "https://project3.com",
+      "index": "03"
+    },
+    {
+      "id": 4,
+      "title": "Travel Planner",
+      "link": "https://project4.com",
+      "index": "04"
+    },
+    {
+      "id": 5,
+      "title": "Destination Guide",
+      "link": "https://project5.com",
+      "index": "05"
+    },
+    {
+      "id": 6,
+      "title": "Travel Journal",
+      "link": "https://project6.com",
+      "index": "06"
+    }
+  ]
+}
